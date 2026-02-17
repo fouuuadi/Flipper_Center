@@ -1,0 +1,9 @@
+[submodule "back"]
+	path = back
+	url = git@github.com:fouuuadi/Flipper_back.git
+[submodule "front"]
+	path = front
+	url = git@github.com:fouuuadi/Flipper_front.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:fouuuadi/Flipper_documentation.git
