@@ -12,3 +12,6 @@
 	path = docs
 	url = git@github.com:fouuuadi/Flipper_documentation.git
 	branch = main
+[submodule "infra"]
+	path = infra
+	url = git@github.com:fouuuadi/Flipper_infra.git
